@@ -1,11 +1,11 @@
 
-<p>
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=sjhleo&show_icons=true" alt="" align="right" style="margin-bottom: 20px;" />
- 
-</p>
-<p>
+</div>
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjhleo&layout=compact"  align="right" style="margin-bottom: 20px;" />
-</p>
+</div>
+
 ### Hi there, I'm leo! 👋
 
 - 😄 前端开发工程师
