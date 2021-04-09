@@ -1,6 +1,7 @@
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=sjhleo&show_icons=true" alt="1024bibi.com" align="right" style="margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=sjhleo&show_icons=true" alt="" align="right" style="margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjhleo&layout=compact" alt="" align="right" style="margin-bottom: 20px;" />
 </p>
 
 ### Hi there, I'm leo! 👋
