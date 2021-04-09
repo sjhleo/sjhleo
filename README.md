@@ -1,9 +1,7 @@
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=sjhleo&show_icons=true" alt="" align="center" style="margin-bottom: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sjhleo&show_icons=true" alt="" align="right" style="margin-bottom: 20px;" />
 </div>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjhleo&layout=compact"  align="center" style="margin-bottom: 20px;" />
-</div>
+
 
 ### Hi there, I'm leo! 👋
 
@@ -18,6 +16,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjhleo&layout=compact"  align="right" style="margin-bottom: 20px;" />
+</div>
 
 ## ⚡ Technologies
 
