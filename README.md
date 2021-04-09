@@ -1,9 +1,8 @@
-
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=sjhleo&show_icons=true" alt="" align="right" style="margin-bottom: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sjhleo&show_icons=true" alt="" align="center" style="margin-bottom: 20px;" />
 </div>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjhleo&layout=compact"  align="right" style="margin-bottom: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjhleo&layout=compact"  align="center" style="margin-bottom: 20px;" />
 </div>
 
 ### Hi there, I'm leo! 👋
