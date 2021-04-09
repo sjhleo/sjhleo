@@ -10,7 +10,7 @@
 **Languages and Tools:**  
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjhleo&layout=compact" alt="" align="right" style="margin-bottom: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjhleo&layout=compact"  style="margin-bottom: 20px;" />
 </p>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
